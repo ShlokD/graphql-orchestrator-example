@@ -1,0 +1,15 @@
+{
+  "timestamp": "23-09-2020",
+  "books": [
+    {
+      "id": "b1",
+      "title": "1984",
+      "author": { "id": "a1", "name": "George Orwell" }
+    },
+    {
+      "id": "b2",
+      "title": "Catch-22",
+      "author": { "id": "a2", "name": "Joseph Heller" }
+    }
+  ]
+}
